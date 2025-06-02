@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Flight Radar",
+    "type": "Geographic",
+    "url": "https://www.flightradar24.c",
+    "description": "Ein Tool zur Flugverfolgung, mit dem Sie Flüge, ihre Flugrouten und historische Daten (bis zu 7 Tage in der kostenlosen Version) in Echtzeit verfolgen können. Nützlich zur Überprüfung von Flugbewegungen und Flugzeug-Kennzeichen."
+  },
+  {
+    "name": "Search By Faces (Search4Faces)",
+    "type": "Search",
+    "url": "https://search4faces.com",
+    "description": "Eine umgekehrte Gesichtssuchmaschine, die KI nutzt, um Personen anhand von Fotos in öffentlichen sozialen Netzwerken wie VKontakte, Odnoklassniki, TikTok und Clubhouse zu finden."
+  },
+  {
+    "name": "Search By Username (WhatsMyName Web)",
+    "type": "Social Media",
+    "url": "https://whatsmyname.app",
+    "description": "Hilft, herauszufinden, auf welchen sozialen Medienplattformen jemand einen bestimmten Benutzernamen verwendet. Sie können nach Kategorien filtern und Export-URLs abrufen."
+  },
+  {
+    "name": "Check Crowd Size (MapChecking Crowd Tool)",
+    "type": "Geographic",
+    "url": "https://www.mapchecking.com",
+    "description": "Ein Tool, das Ihnen hilft, die maximale Anzahl von Personen zu schätzen und zu überprüfen, die in einen bestimmten Bereich passen. Sie können Bereiche auf der Karte abgrenzen und die Menschendichte anpassen."
+  },
+  {
+    "name": "Facebook Search Tool (Who Posted What?)",
+    "type": "Social Media",
+    "url": "https://whopostedwhat.com",
+    "description": "Ein Tool, mit dem Sie spezifische Suchanfragen auf Facebook durchführen können. Es ermöglicht das Filtern von Beiträgen nach Datum, Monat, Jahr oder Zeitraum."
+  },
+  {
+    "name": "Identify Car Models (CarNET.AI)",
+    "type": "Search",
+    "url": "https://carnet.ai",
+    "description": "Eine KI, die Sie nutzen können, um ein Bild hochzuladen und das Automodell sowie die Generation des Fahrzeugs zu identifizieren."
+  },
+  {
+    "name": "Map of Global Events (Live UA Map)",
+    "type": "Geographic",
+    "url": "https://liveuamap.com",
+    "description": "Ein Tool, das Karten und Ereignisse aus aller Welt sammelt und anzeigt. Es ist nützlich, um wichtige globale Nachrichtenereignisse zu verfolgen."
+  },
+  {
+    "name": "Power/Water Grid Map (Open Infrastructure Map)",
+    "type": "Geographic",
+    "url": "https://openinframap.org",
+    "description": "Eine Karte, die wichtige Infrastruktur in öffentlich zugänglichen Kartenquellen darstellt. Sie ist nützlich für Geolokationsaufgaben."
+  },
+  {
+    "name": "YouTube Video Map Search (MW Geofind)",
+    "type": "Geographic",
+    "url": "https://mattw.io/youtube-geofind",
+    "description": "Eine Website, mit der Sie geotaggte YouTube-Videos finden können, die von einem bestimmten Ort hochgeladen wurden."
+  },
+  {
+    "name": "Shadow Calculator (SunCalc.org)",
+    "type": "Search",
+    "url": "https://suncalc.org",
+    "description": "Eine KI, die Sie nutzen können, um ein Bild hochzuladen und den Einfallswinkel der Schatten zu berechnen, um die Uhrzeit basierend auf den Schatten eines Gebäudes zu ermitteln."
+  },
+  {
+    "name": "Image Reverse Search (Search by Image)",
+    "type": "Search",
+    "url": "https://chrome.google.com/webstore/detail/search-by-image/cnojlkdbopilpmfcdnjkgnmkgkjhblid",
+    "description": "Ein Chrome-Plugin, das Ihnen ermöglicht, mehrere Plattformen mit einem Klick zu durchsuchen."
+  },
+  {
+    "name": "ShadowMap",
+    "type": "Geographic",
+    "url": "https://app.shadowmap.org",
+    "description": "Ermöglicht es Ihnen, Schatten von Gebäuden überall auf der Welt zu sehen und zu simulieren, wohin diese Schatten fallen. Nützlich zur Bestimmung des Aufnahmeorts von Fotos und Videos in dicht besiedelten Gebieten."
+  },
+  {
+    "name": "TG Stat",
+    "type": "Social Media",
+    "url": "https://tgstat.com",
+    "description": "Nützlich zum Suchen von Telegram-Kanälen nach Land, zum Erkunden von Kanälen nach Kategorie und zum Überprüfen von Kanal- und Gruppenbewertungen. Nützlich für die Recherche spezifischer Nischenthemen auf Telegram."
+  },
+  {
+    "name": "PimEyes",
+    "type": "Search",
+    "url": "https://pimeyes.com/en",
+    "description": "Ein kostenpflichtiger Dienst, der alternative Bilder des Gesichts einer Person liefert."
+  },
+  {
+    "name": "GeoGuessr (ChatGPT-basiert)",
+    "type": "Geographic",
+    "url": "https://chatgpt.com/g/g-CJ",
+    "description": "Eine kostenlose, auf ChatGPT basierende App, die den Standort eines Bildes vorschlägt, nachdem Sie es hochgeladen haben."
+  },
+  {
+    "name": "Google Earth Pro",
+    "type": "Geographic",
+    "url": "https://earth.google.com/in",
+    "description": "Ein kostenloses, herunterladbares Programm, mit dem Sie klare historische Satellitenbilder für jeden Ort der Welt anzeigen können."
+  },
+  {
+    "name": "GetDayTrends",
+    "type": "Social Media",
+    "url": "https://getdaytrends.com",
+    "description": "Eine Website, mit der Sie herausfinden können, welche Top-Trending-Tags auf Twitter (jetzt X) zu jeder Zeit und an jedem Ort der Welt sind."
+  },
+  {
+    "name": "Google Image Reverse Search (Google Lens)",
+    "type": "Search",
+    "url": "https://lens.google.com",
+    "description": "Ermöglicht das Hochladen eines Bildes, um mehr Kontext zu erhalten, zu sehen, wo es gepostet wurde, oder andere Versionen online zu finden."
+  },
+  {
+    "name": "Redective",
+    "type": "Social Media",
+    "url": "https://www.redective.com",
+    "description": "Ein Tool, mit dem Sie die Statistiken einer Reddit-Gruppe oder die am häufigsten verwendeten Wörter oder aktiven Stunden eines Benutzers überprüfen können."
+  },
+  {
+    "name": "Untapped Scraper",
+    "type": "Data",
+    "url": "https://brandone.github.io",
+    "description": "Ein Tool, mit dem Sie herausfinden können, wie viel Bier in Ihrer Nähe getrunken wird."
+  },
+  {
+    "name": "Google Dorks (Recorded Future)",
+    "type": "Search",
+    "url": "https://www.recordedfuture.com",
+    "description": "Eine Methode zur Suche auf Google nach bestimmten Dateitypen wie PDFs, Dokumenten oder Tabellen, sogar auf einer spezifischen Website."
+  },
+  {
+    "name": "Wayback Machine (Archive.org)",
+    "type": "Data",
+    "url": "https://archive.org/details",
+    "description": "Ein Dienst, mit dem Sie gelöschte Websites und Beiträge anzeigen können. Sie können jeden Tag durch erstellte Screenshots suchen."
+  },
+  {
+    "name": "Jimpl",
+    "type": "Data",
+    "url": "https://jimpl.com",
+    "description": "Ein Online-EXIF- oder Metadaten-Viewer."
+  },
+  {
+    "name": "Pixel Keeper",
+    "type": "Data",
+    "url": "https://pixelpeeper.com/ap",
+    "description": "Ein Tool, das Kameramodell und Datum mithilfe von EXIF-Daten anzeigt."
+  },
+  {
+    "name": "Exif Tool",
+    "type": "Data",
+    "url": "https://exiftool.org",
+    "description": "Ein Kommandozeilen-Tool, das versteckte Daten, die an ein Bild angehängt sind, anzeigt."
+  },
+  {
+    "name": "Overpass Turbo",
+    "type": "Geographic",
+    "url": "https://overpass-turbo.eu",
+    "description": "Ein Tool, mit dem Sie die OpenStreetMap-Datenbank abfragen können, um Ihre eigene Karte zu erstellen."
+  },
+  {
+    "name": "Open Measures",
+    "type": "Social Media",
+    "url": "https://public.openmeasures.io",
+    "description": "Ein Tool, mit dem Sie Trends auf Plattformen wie Telegram, TikTok, VK und mehr verfolgen können."
+  },
+  {
+    "name": "RiteTag",
+    "type": "Hashtags",
+    "url": "https://ritetag.com",
+    "description": "Bietet sofortige Hashtag-Vorschläge für Texte oder Bilder. Zeigt an, welche Hashtags gerade trenden (grün = gut, blau = gut, rot = überstrapaziert). Hilft, die Reichweite zu maximieren und die Relevanz für Ihr Thema zu bewerten. Hat oft kostenlose Testphasen oder limitierte kostenlose Nutzung."
+  },
+  {
+    "name": "Hashtagify.me",
+    "type": "Hashtags",
+    "url": "https://hashtagify.me",
+    "description": "Ermöglicht die Suche nach Hashtags und zeigt verwandte Hashtags, ihre Popularität, Top-Influencer, die sie verwenden, und Nutzungsstatistiken über die Zeit. Ideal, um ein Thema umfassend zu verstehen und relevante Cluster zu finden. Bietet eine kostenlose Suche mit begrenzten Informationen."
+  },
+  {
+    "name": "Native Social Media Plattformen (Trends)",
+    "type": "Hashtags",
+    "url": "N/A",
+    "description": "Direkte Trend- und Hashtag-Funktionen auf Plattformen wie Twitter/X, Instagram, TikTok und YouTube. Der erste und direkteste Weg, um zu sehen, was auf der jeweiligen Plattform angesagt ist."
+  },
+  {
+    "name": "Google Trends",
+    "type": "Hashtags",
+    "url": "https://trends.google.com",
+    "description": "Zeigt die Popularität von Suchanfragen über die Zeit und in verschiedenen Regionen. Obwohl es keine reinen Hashtags sind, gibt es einen guten Hinweis auf das allgemeine öffentliche Interesse an einem Thema, das oft mit viralen Hashtags korreliert."
+  },
+  {
+    "name": "Mention",
+    "type": "Hashtags",
+    "url": "https://mention.com",
+    "description": "Ein Social-Listening-Tool, das die Überwachung von Markenerwähnungen und Hashtags in Echtzeit über verschiedene Kanäle ermöglicht. (Kostenlose Version/Testphase limitiert)."
+  },
+  {
+    "name": "Talkwalker Alerts",
+    "type": "Hashtags",
+    "url": "https://www.talkwalker.com/alerts",
+    "description": "Ähnlich wie Google Alerts, aber spezialisiert auf soziale Medien, Nachrichten und Blogs. Ermöglicht das Einrichten von Benachrichtigungen für bestimmte Hashtags."
+  },
+  {
+    "name": "Keywordtool.io",
+    "type": "Hashtags",
+    "url": "https://keywordtool.io",
+    "description": "Bietet Keyword- und Hashtag-Vorschläge für verschiedene Plattformen (Instagram, YouTube, TikTok, Twitter/X). Die kostenlose Version ist limitiert, gibt aber eine gute Vorstellung von relevanten Begriffen."
+  },
+  {
+    "name": "Exolyt",
+    "type": "Hashtags",
+    "url": "https://exolyt.com",
+    "description": "Ein Analytics-Tool speziell für TikTok. Bietet Einblicke in Top-Videos, Hashtags, Sounds und Influencer, die auf der Plattform trenden. (Kostenlose Analysen für öffentliche Profile verfügbar)."
+  }
+]
